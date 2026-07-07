@@ -12,4 +12,7 @@ Created the base design for the case and ESP 32
 <img width="636" height="346" alt="Screenshot 2026-07-07 at 11 19 38 AM" src="https://github.com/user-attachments/assets/2cf10323-0fc9-479c-b648-0de00ad0b40b" />
 
 
-Put what I built, why, and what I learned
+Addes base 
+
+<img width="314" height="389" alt="Screenshot 2026-07-07 at 12 05 10 PM" src="https://github.com/user-attachments/assets/6f29d306-9ec0-4c05-aec6-64f6dd2273fe" />
+
