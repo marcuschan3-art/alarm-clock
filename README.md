@@ -19,3 +19,5 @@ Added base
 
 <img width="314" height="389" alt="Screenshot 2026-07-07 at 12 05 10 PM" src="https://github.com/user-attachments/assets/6f29d306-9ec0-4c05-aec6-64f6dd2273fe" />
 
+Made it 3d 
+<img width="601" height="425" alt="Screenshot 2026-07-07 at 12 13 42 PM" src="https://github.com/user-attachments/assets/263a7287-2bfc-47b3-800a-b389fd31e809" />
