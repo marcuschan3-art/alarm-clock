@@ -8,4 +8,8 @@ Wire planning: <img width="382" height="313" alt="Screenshot 2026-07-07 at 8 05 
 
 I planned the wires so that they could fit inside of a rectangular box and be functional.
 
+Created the base design for the case and ESP 32
+<img width="636" height="346" alt="Screenshot 2026-07-07 at 11 19 38 AM" src="https://github.com/user-attachments/assets/2cf10323-0fc9-479c-b648-0de00ad0b40b" />
+
+
 Put what I built, why, and what I learned
