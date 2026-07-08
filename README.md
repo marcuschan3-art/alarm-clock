@@ -25,3 +25,6 @@ Added pcb and other extrusions
 <img width="804" height="368" alt="Screenshot 2026-07-07 at 7 33 59 PM" src="https://github.com/user-attachments/assets/b8ed59f0-9464-404c-9960-954a6d925d6a" />
 Added stuff 
 <img width="553" height="477" alt="Screenshot 2026-07-08 at 11 26 51 AM" src="https://github.com/user-attachments/assets/c9402f23-c5ed-4f6c-b685-ab603cd3b187" />
+
+Added buzzer 
+<img width="417" height="237" alt="Screenshot 2026-07-08 at 11 41 13 AM" src="https://github.com/user-attachments/assets/ec472ad8-d250-4145-91fc-d08b6d51a585" />
