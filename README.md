@@ -6,7 +6,9 @@ Time spent: 5 minutes
 
 Wire planning:
 <img width="382" height="313" alt="Screenshot 2026-07-07 at 8 05 33 AM" src="https://github.com/user-attachments/assets/1c5ef8ec-4d88-4f80-8ffd-a60aa51f7254" />
+
 Time spent: 10 minutes
+
 
 <img width="576" height="224" alt="Screenshot 2026-07-07 at 8 05 09 AM" src="https://github.com/user-attachments/assets/024b25bb-7a56-4438-8076-f242f504a68e" />
 
@@ -15,7 +17,8 @@ I planned the wires so that they could fit inside of a rectangular box and be fu
 Created the base design for the case and ESP 32
 
 <img width="636" height="346" alt="Screenshot 2026-07-07 at 11 19 38 AM" src="https://github.com/user-attachments/assets/2cf10323-0fc9-479c-b648-0de00ad0b40b" />
-Time spent: 30 minutes bec because I tried to manually put them together instead of using a fastened mate(didn't know I could do that)
+
+Time spent: 30 minutes because I tried to manually put them together instead of using a fastened mate(didn't know I could do that)
 
 Added base 
 
