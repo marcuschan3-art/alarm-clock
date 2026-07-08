@@ -30,7 +30,7 @@ Added pcb and other extrusions
 <img width="804" height="368" alt="Screenshot 2026-07-07 at 7 33 59 PM" src="https://github.com/user-attachments/assets/b8ed59f0-9464-404c-9960-954a6d925d6a" />
 Time spent: 10 minutes
 
-Added stuff 
+Added keyboard switch and buzzer cutout 
 <img width="553" height="477" alt="Screenshot 2026-07-08 at 11 26 51 AM" src="https://github.com/user-attachments/assets/c9402f23-c5ed-4f6c-b685-ab603cd3b187" />
 Time spent: 30 minutes(Couldn't figure out DXF)
 
@@ -38,3 +38,8 @@ Time spent: 30 minutes(Couldn't figure out DXF)
 Added buzzer 
 <img width="417" height="237" alt="Screenshot 2026-07-08 at 11 41 13 AM" src="https://github.com/user-attachments/assets/ec472ad8-d250-4145-91fc-d08b6d51a585" />
 Time spent: 5 minutes
+
+
+
+
+  In total I probaly spent a lot longer though because I couldn't figure things out or had to restart because it's my first time using CAD so my design was bad.
