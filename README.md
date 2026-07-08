@@ -46,3 +46,9 @@ Time spent: 5 minutes
 
 
   In total I probaly spent a lot longer though because I couldn't figure things out or had to restart because it's my first time using CAD so my design was bad.
+
+
+
+
+Installed esp32
+<img width="552" height="117" alt="Screenshot 2026-07-08 at 11 54 17 AM" src="https://github.com/user-attachments/assets/82a1d21f-5044-4e9e-8812-18ed434f0db3" />
