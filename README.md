@@ -50,5 +50,5 @@ Time spent: 5 minutes
 
 
 
-Installed esp32
+Installed ESP32,Adafruit_ST7735, Adafruit_ST7789, and Adafruit_GFX
 <img width="552" height="117" alt="Screenshot 2026-07-08 at 11 54 17 AM" src="https://github.com/user-attachments/assets/82a1d21f-5044-4e9e-8812-18ed434f0db3" />
