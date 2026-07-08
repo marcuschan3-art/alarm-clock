@@ -24,4 +24,4 @@ Made it 3d
 Added pcb and other extrusions 
 <img width="804" height="368" alt="Screenshot 2026-07-07 at 7 33 59 PM" src="https://github.com/user-attachments/assets/b8ed59f0-9464-404c-9960-954a6d925d6a" />
 Added stuff 
-<img width="804" height="368" alt="Screenshot 2026-07-07 at 7 33 59 PM" src="https://github.com/user-attachments/assets/114edc1e-a1ed-4862-979a-00c7ea9927fd" />
+<img width="553" height="477" alt="Screenshot 2026-07-08 at 11 26 51 AM" src="https://github.com/user-attachments/assets/c9402f23-c5ed-4f6c-b685-ab603cd3b187" />
