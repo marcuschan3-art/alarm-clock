@@ -64,4 +64,3 @@ Added my code to connect to wifi and print time
 <img width="800" height="565" alt="Screenshot 2026-07-08 at 2 12 32 PM" src="https://github.com/user-attachments/assets/ac6f97eb-027a-4fba-9724-8ac9afdf512c" />
 <img width="813" height="542" alt="Screenshot 2026-07-08 at 2 12 39 PM" src="https://github.com/user-attachments/assets/2d5cf38f-f33b-431d-9c05-ac421b3d3f34" />
 
-<img width="813" height="542" alt="Screenshot 2026-07-08 at 2 12 39 PM" src="https://github.com/user-attachments/assets/b54e0860-6749-4bd4-82ac-e2eb646177d4" />
