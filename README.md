@@ -1,10 +1,12 @@
 # alarm-clock
 Alarm clock for BLARE
 
-Planning: I want square alarm clock but with rounded edges. Maybe make me type something with the keys to wake me up. Possibly add motors or a speaker.                                                                                            
+Planning: I want square alarm clock but with rounded edges. Maybe make me type something with the keys to wake me up. Possibly add motors or a speaker.                                                                         
+Time spent: 5 minutes
+
 Wire planning:
 <img width="382" height="313" alt="Screenshot 2026-07-07 at 8 05 33 AM" src="https://github.com/user-attachments/assets/1c5ef8ec-4d88-4f80-8ffd-a60aa51f7254" />
-
+Time spent: 10 minutes
 
 <img width="576" height="224" alt="Screenshot 2026-07-07 at 8 05 09 AM" src="https://github.com/user-attachments/assets/024b25bb-7a56-4438-8076-f242f504a68e" />
 
