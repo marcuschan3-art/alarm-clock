@@ -15,6 +15,7 @@ Planned wiring (The wires are straight becuase the wires would've crossed due to
 
 <img width="409" height="228" alt="Screenshot 2026-07-09 at 3 17 42 PM" src="https://github.com/user-attachments/assets/9fd04d4d-221c-48b9-9a2f-fb018f4a8cac" />
 
+<img width="774" height="726" alt="Screenshot 2026-07-09 at 3 17 27 PM" src="https://github.com/user-attachments/assets/57f81bd9-849b-4a0e-bbe2-89b9b4424eaf" />
 
 Made the fastened mate, created the case, and extruded the case.
 Learned how to attach objects, and extrude.
