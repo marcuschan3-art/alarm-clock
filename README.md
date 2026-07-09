@@ -42,3 +42,32 @@ Added extrusions
 Added keyboard switches
 <img width="812" height="647" alt="Screenshot 2026-07-09 at 3 06 39 PM" src="https://github.com/user-attachments/assets/89dae250-f691-4986-ac93-3e63e3fb6442" />
 
+
+Code:
+#define TFT_CS 1
+#define TFT_RST 2
+#define TFT_DC 3
+#define TFT_SCLK 4
+#define TFT_MOSI 5
+
+#include <Adafruit_GFX.h>
+#include <Adafruit_ST7789.h>
+#include <SPI.h>
+#include <WiFi.h>
+#include "time.h"
+
+const char* ssid = SpeedBoopsy;
+const char* password = TeslA18@fast;
+const char* ntpServer = "pool.ntp.org";
+
+void setup() {
+  Serial.begin(115200);
+  WiFi.begin(ssid, password);
+  
+}
+
+void loop() {
+  serial.println(ntpServer)
+  delay(10000)
+}
+
