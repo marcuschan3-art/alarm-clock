@@ -1,6 +1,6 @@
-#define TFT_CS 7 
-#define TFT_RST 10 
-#define TFT_DC 8 
+#define TFT_CS 7                         
+#define TFT_RST 10              
+#define TFT_DC 8         
 #define TFT_SCLK 4 
 #define TFT_MOSI 5
 #include <Adafruit_GFX.h>
