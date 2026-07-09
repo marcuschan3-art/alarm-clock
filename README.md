@@ -1,5 +1,6 @@
 # alarm-clock
 Alarm clock for BLARE
+
 Note: This is my second time, I restarted becuase there was tons of problems in my first design.
 
 BILL OF MATERIALS: 1x Lolin C3 Mini ESP 32 Devboard, 8x Keyboard Switches, 1x 2.25in TFT Screen, 1x 3.3V Piezo Buzzer, 10x M-M Jumper Cables, 10x F-M Jumper Cables, 10x F-F Jumper Cables
