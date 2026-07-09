@@ -1,7 +1,7 @@
 # alarm-clock
 Alarm clock for BLARE
 
-Important!:Download the finalalarmclockv2.step, then view it in a step file viewer!
+Important!!!: Download the finalalarmclockv2.step, then view it in a step file viewer!
 Note: This is my second time, I restarted becuase there was tons of problems in my first design.
 
 BILL OF MATERIALS: 1x Lolin C3 Mini ESP 32 Devboard, 6 Keyboard Switches, 1 2.25in TFT Screen, 1 3.3V Piezo Buzzer, 10 M-M Jumper Cables, 10 F-M Jumper Cables, 10 F-F Jumper Cables
