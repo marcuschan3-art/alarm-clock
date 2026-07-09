@@ -1,5 +1,6 @@
 # alarm-clock
 Alarm clock for BLARE
+Note: This is my second time, I restarted becuase there was tons of problems in my first design.
 
 BILL OF MATERIALS: 1x Lolin C3 Mini ESP 32 Devboard, 6x Keyboard Switches, 1x 2.25in TFT Screen, 1x 3.3V Piezo Buzzer, 10x M-M Jumper Cables, 10x F-M Jumper Cables, 10x F-F Jumper Cables
 
@@ -8,4 +9,6 @@ BILL OF MATERIALS: 1x Lolin C3 Mini ESP 32 Devboard, 6x Keyboard Switches, 1x 2.
 Planning: I want square alarm clock but with rounded edges.                                                                      
 Time spent: 5 minutes
 
+Planned wiring
+<img width="1128" height="725" alt="Screenshot 2026-07-08 at 8 45 09 PM" src="https://github.com/user-attachments/assets/5cb755f2-9f00-462f-b7f1-10a4313ceda6" />
 
