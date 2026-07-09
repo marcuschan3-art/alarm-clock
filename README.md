@@ -32,6 +32,7 @@ Added extrusions
 
 <img width="198" height="327" alt="Screenshot 2026-07-09 at 10 11 02 AM" src="https://github.com/user-attachments/assets/628e8024-25a4-436c-89a3-e11797bcf6e0" />
 
-Added keyboard switched
+Added keyboard switches
 
 <img width="737" height="383" alt="Screenshot 2026-07-09 at 10 52 59 AM" src="https://github.com/user-attachments/assets/1344d617-e2fd-46b3-a0f9-a99e2a9cd81d" />
+<img width="766" height="436" alt="Screenshot 2026-07-09 at 10 54 50 AM" src="https://github.com/user-attachments/assets/e1fe7f41-0313-4b44-8b48-78bb3d0f6b2d" />
