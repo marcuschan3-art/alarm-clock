@@ -14,3 +14,5 @@ Planned wiring
 
 Made the fastened mate, created the case, and extruded the case
 <img width="562" height="309" alt="Screenshot 2026-07-09 at 9 20 22 AM" src="https://github.com/user-attachments/assets/eabebf3e-a5ab-494b-add4-427550a45d1a" />
+Added keyboard switch extrusions
+<img width="410" height="217" alt="Screenshot 2026-07-09 at 9 45 45 AM" src="https://github.com/user-attachments/assets/02ae6728-e096-453c-8096-b1f84f309f07" />
