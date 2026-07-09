@@ -13,11 +13,23 @@ Planned wiring
 <img width="1128" height="725" alt="Screenshot 2026-07-08 at 8 45 09 PM" src="https://github.com/user-attachments/assets/5cb755f2-9f00-462f-b7f1-10a4313ceda6" />
 
 Made the fastened mate, created the case, and extruded the case
+
 <img width="562" height="309" alt="Screenshot 2026-07-09 at 9 20 22 AM" src="https://github.com/user-attachments/assets/eabebf3e-a5ab-494b-add4-427550a45d1a" />
+
 Added keyboard switch extrusions
+
 <img width="410" height="217" alt="Screenshot 2026-07-09 at 9 45 45 AM" src="https://github.com/user-attachments/assets/02ae6728-e096-453c-8096-b1f84f309f07" />
+
 Added buzzer hole
+
 <img width="189" height="199" alt="Screenshot 2026-07-09 at 9 51 11 AM" src="https://github.com/user-attachments/assets/85e0f8f2-c826-4aff-87e1-d9bed12f7d81" />
+
 Added extrusions
+
 <img width="690" height="296" alt="Screenshot 2026-07-09 at 10 10 53 AM" src="https://github.com/user-attachments/assets/23ff5fd4-2537-4368-b590-2e51d2aff66f" />
+
 <img width="198" height="327" alt="Screenshot 2026-07-09 at 10 11 02 AM" src="https://github.com/user-attachments/assets/628e8024-25a4-436c-89a3-e11797bcf6e0" />
+
+Added keyboard switched
+
+<img width="737" height="383" alt="Screenshot 2026-07-09 at 10 52 59 AM" src="https://github.com/user-attachments/assets/1344d617-e2fd-46b3-a0f9-a99e2a9cd81d" />
