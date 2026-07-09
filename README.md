@@ -10,8 +10,8 @@ BILL OF MATERIALS: 1x Lolin C3 Mini ESP 32 Devboard, 8x Keyboard Switches, 1x 2.
 Planning: I want square alarm clock but with rounded edges.                                                                      
 
 
-Planned wiring
-<img width="1128" height="725" alt="Screenshot 2026-07-08 at 8 45 09 PM" src="https://github.com/user-attachments/assets/5cb755f2-9f00-462f-b7f1-10a4313ceda6" />
+Planned wiring (Some of the wires are straight becuase the wires would've crossed due to my horrible drawing skills)
+<img width="1076" height="706" alt="Screenshot 2026-07-09 at 3 09 12 PM" src="https://github.com/user-attachments/assets/a3b325ce-7369-4db1-a246-53357872ea14" />
 
 Made the fastened mate, created the case, and extruded the case.
 Learned how to attach objects, and extrude.
