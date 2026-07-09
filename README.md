@@ -18,3 +18,6 @@ Added keyboard switch extrusions
 <img width="410" height="217" alt="Screenshot 2026-07-09 at 9 45 45 AM" src="https://github.com/user-attachments/assets/02ae6728-e096-453c-8096-b1f84f309f07" />
 Added buzzer hole
 <img width="189" height="199" alt="Screenshot 2026-07-09 at 9 51 11 AM" src="https://github.com/user-attachments/assets/85e0f8f2-c826-4aff-87e1-d9bed12f7d81" />
+Added extrusions
+<img width="690" height="296" alt="Screenshot 2026-07-09 at 10 10 53 AM" src="https://github.com/user-attachments/assets/23ff5fd4-2537-4368-b590-2e51d2aff66f" />
+<img width="198" height="327" alt="Screenshot 2026-07-09 at 10 11 02 AM" src="https://github.com/user-attachments/assets/628e8024-25a4-436c-89a3-e11797bcf6e0" />
