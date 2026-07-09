@@ -12,11 +12,13 @@ Planning: I want square alarm clock but with rounded edges. I want it to find th
 
 
 Planned wiring (The wires are straight becuase the wires would've crossed due to my horrible drawing skills)
-<img width="692" height="406" alt="Screenshot 2026-07-09 at 3 17 10 PM" src="https://github.com/user-attachments/assets/85ed4471-5a10-44c2-91ad-2b700dbb3237" />
+<img width="340" height="290" alt="Screenshot 2026-07-09 at 3 25 49 PM" src="https://github.com/user-attachments/assets/1ec1e122-a128-48d8-875f-b46b07c9e774" />
+
 
 <img width="409" height="228" alt="Screenshot 2026-07-09 at 3 17 42 PM" src="https://github.com/user-attachments/assets/9fd04d4d-221c-48b9-9a2f-fb018f4a8cac" />
 
-<img width="340" height="290" alt="Screenshot 2026-07-09 at 3 25 49 PM" src="https://github.com/user-attachments/assets/e7dc13c6-afc1-4e8a-9706-a19273878546" />
+<img width="1278" height="718" alt="Screenshot 2026-07-09 at 3 25 57 PM" src="https://github.com/user-attachments/assets/d5baea04-5ea4-4adf-85f6-32dbabd58ce9" />
+
 
 Made the fastened mate, created the case, and extruded the case.
 Learned how to attach objects, and extrude.
