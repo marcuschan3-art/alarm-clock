@@ -41,8 +41,8 @@ Learned how to upload DXF file and do a intrusion.
 
 I forgot to screenshot but here's what I did for coding
 
-1 Included WiFi.h, time.h, and SPI.h 
-2 Added ssid and password so the Esp could connect to wifi   
-3 Added a const char for pool.ntp.org called ntpServer
-4 Made a function called printLocalTime which got the time from ntpServer and printed the hour, minute, and second every 990 milliseconds
-5 Added a function for a buzzer
+1 Included WiFi.h, time.h, and SPI.h   
+2 Added ssid and password so the Esp could connect to wifi     
+3 Added a const char for pool.ntp.org called ntpServer    
+4 Made a function called printLocalTime which got the time from ntpServer and printed the hour, minute, and second   every 990 milliseconds
+5 Added a function for a buzzer   
