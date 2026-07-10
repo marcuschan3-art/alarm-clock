@@ -39,3 +39,10 @@ Added extrusions
 Added keyboard switches
 <img width="812" height="647" alt="Screenshot 2026-07-09 at 3 06 39 PM" src="https://github.com/user-attachments/assets/89dae250-f691-4986-ac93-3e63e3fb6442" />
 
+I forgot to screenshot but here's what I did for coding
+
+1 Included WiFi.h, time.h, and SPI.h 
+2 Added ssid and password so the Esp could connect to wifi   
+3 Added a const char for pool.ntp.org called ntpServer
+4 Made a function called printLocalTime which got the time from ntpServer and printed the hour, minute, and second every 990 milliseconds
+5 Added a function for a buzzer
