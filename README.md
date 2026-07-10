@@ -11,7 +11,7 @@ BILL OF MATERIALS: 1x Lolin C3 Mini ESP 32 Devboard, 6 Keyboard Switches, 1 2.25
 Planning: I want square alarm clock but with rounded edges. I want it to find the current time and display it.                                                                      
 
 
-Planned wiring (The wires are straight becuase the wires would've crossed due to my horrible drawing skills)
+Planned wiring (The wires are straight becuase I suck at drawing)
 
 <img width="954" height="696" alt="Screenshot 2026-07-09 at 4 00 27 PM" src="https://github.com/user-attachments/assets/e7870747-5ae9-46db-a16c-884688dd0361" />
 
