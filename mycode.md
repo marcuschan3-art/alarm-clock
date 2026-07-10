@@ -14,6 +14,14 @@ const char* ssid = "SpeedBoopsy";
 const char* password = "TeslA18@fast";       
 const char* ntpServer = "pool.ntp.org";        
      
+void buzz{     
+  tone(BUZZER, 85);   
+  delay(1000);   
+  noTone(BUZZER);  
+  delay(1000);  
+}  
+  
+
 void setup() {          
   Serial.begin(115200);         
   WiFi.begin(ssid, password);         
